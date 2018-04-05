@@ -1,7 +1,7 @@
 # Docker
 # Build, tag, push, or run Docker images, or run a Docker command.
 # More Information on https://go.microsoft.com/fwlink/?linkid=848006
-# CodeLaunch YAML help: https://aka.ms/yaml
+# YAML help: https://aka.ms/yaml
 
 queue:
   name: Hosted VS2017                                       # Hosted Linux Preview, Default
